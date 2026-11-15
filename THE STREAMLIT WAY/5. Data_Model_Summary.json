@@ -1,0 +1,11 @@
+﻿{
+    "Total_Patients":  1000,
+    "Admitted_Patients":  478,
+    "Admission_Rate_Pct":  47.8,
+    "Avg_Wait_Time_Min":  35.86,
+    "Avg_Satisfaction_Score":  4.6,
+    "Scored_Count":  284,
+    "Unscored_Count":  716,
+    "Date_Range_Start":  "2023-04-01",
+    "Date_Range_End":  "2024-10-30"
+}

@@ -81,4 +81,4 @@ Simply double-click `THE HTML WAY/index.html` or open it in any web browser (Chr
 ## 👤 Author
 **Muntasib Junaidi (Miran)**  
 *NIT Warangal | Data Analytics & Software Engineering Portfolio*  
-*GitHub: [@Miran2006](https://github.com/Miran2006)*
+*GitHub: [@Muntasib-2006](https://github.com/Muntasib-2006)*
